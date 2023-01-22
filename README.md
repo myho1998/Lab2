@@ -19,6 +19,8 @@ The reason I want to work on these places is that there is no reason. I just fee
 ## II. This is Space Needle
 [2. Click on this file! Contribution file for this project](assets/twsearch-result%20(2).csv)
 "Space" is the biggest highlight word, it means that it was mentioned the most; then "Show", "Neddle", "Good", "Seattle","One",...
+
+
 ![Space Needle](/img/Word%20Art2.png)
 
 
@@ -26,6 +28,7 @@ The reason I want to work on these places is that there is no reason. I just fee
 ## III. This is Canada Place
 [3. Click on this file! Contribution file for this project](assets/twsearch-result%20(3).csv)
 "Place" is the biggest highlight word, it means that it was mentioned the most, then "Canada", "New", "Takes", "Vancouver", "Day",...
+
 
 ![Canada Place](/img/Word%20Art%203.png)
 
